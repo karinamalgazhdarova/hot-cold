@@ -10,6 +10,7 @@ namespace hot_cold
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Привет!");
         }
     }
 }
